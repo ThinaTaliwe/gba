@@ -1,6 +1,3 @@
-<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M100 63.58L1.5 0V102.74H198.5V0L100 63.58Z" fill="#FF5F38"/>
-<path d="M100 200L198.5 102.74L100 63.58L1.5 102.74L100 200Z" fill="#9F1900"/>
-<path d="M78.3899 178.66L99.9999 200L121.61 178.66L99.9999 157.18L78.3899 178.66Z" fill="black"/>
-<path d="M1.5 102.74L100 63.58L198.5 102.74L100 157.18L1.5 102.74Z" fill="#F02600"/>
-</svg>
+version https://git-lfs.github.com/spec/v1
+oid sha256:71892cd1d4c7c2a913b11ff51469f1ff65db9fb901d95f72a97682cee4f7287c
+size 445

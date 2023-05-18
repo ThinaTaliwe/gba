@@ -1,6 +1,3 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="8" y="9" width="3" height="10" rx="1.5" fill="currentColor"/>
-<rect opacity="0.5" x="13" y="5" width="3" height="14" rx="1.5" fill="currentColor"/>
-<rect x="18" y="11" width="3" height="8" rx="1.5" fill="currentColor"/>
-<rect x="3" y="13" width="3" height="6" rx="1.5" fill="currentColor"/>
-</svg>
+version https://git-lfs.github.com/spec/v1
+oid sha256:80a5cb8b04f51618281b8eef7552f03a0136713b8c018b3e0d5e403869ede3cd
+size 409
